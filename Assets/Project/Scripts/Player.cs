@@ -4,9 +4,6 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    public string playerName = "Bob";
-    public int age = 20;
-    private float health = 100.0f;
     // Start is called before the first frame update
     void Start()
     {
